@@ -1,6 +1,6 @@
 # CW Word Generator
 
-[![Build Status](https://travis-ci.org/fmarier/cw-word-generator.svg?branch=master)](https://travis-ci.org/fmarier/cw-word-generator)
+[![Build Status](https://travis-ci.com/fmarier/cw-word-generator.svg?branch=master)](https://travis-ci.com/fmarier/cw-word-generator)
 
 Generate words for CW reading practice.
 
