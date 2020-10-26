@@ -1,0 +1,8 @@
+[MESSAGES CONTROL]
+disable=missing-docstring,too-few-public-methods,no-name-in-module,fixme,invalid-name,duplicate-code
+
+[REPORTS]
+output-format=text
+files-output=no
+reports=no
+score=no
