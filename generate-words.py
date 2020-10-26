@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- mode: python -*-
 """
-CW Word Generator - generate words for CW reading practice
+CW Word Generator - generate words for CW reading practice.
 
 Copyright (C) 2020  Francois Marier <va7gpl@fmarier.org>
 
