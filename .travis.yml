@@ -4,6 +4,13 @@ dist: bionic
 
 before_install:
   - sudo apt-get update -qq
-  - sudo apt-get install -y pylint3 pyflakes3 python3-pycodestyle python3-pydocstyle codespell bandit
+  - sudo apt-get install -y codespell
+
+install:
+  - pip install pylint
+  - pip install pyflakes
+  - pip install pydocstyle
+  - pip install pycodestyle
+  - pip install bandit
 
 script: make test
