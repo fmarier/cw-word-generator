@@ -4,6 +4,10 @@
 
 Generate words for CW reading practice.
 
+e.g.
+
+    ./generate-words.py -l 5 -n 1000 taeons8irh0dl2ucwf9my1 > ~/stage3.txt
+
 These word lists can then be uploaded on <https://morsecode.world/international/trainer/words.html>.
 
 ```
